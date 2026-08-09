@@ -1,4 +1,4 @@
-from crewai import Agents
+from crewai import Agent
 from tools.pdf_tools import read_pdf
 from tools.vector_tools import chunk_and_store, retrieve_chunks
 
