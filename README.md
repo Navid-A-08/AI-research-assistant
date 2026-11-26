@@ -8,7 +8,7 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-multi--agent-FF5A50)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20store-6E44FF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/license-free%20to%20use-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)
 
 </div>
 
@@ -230,4 +230,4 @@ Because every agent has `verbose=True`, you'll see each agent's reasoning and to
 
 ## License
 
-Free to use. You may use, copy, modify, and share this project for any purpose.
+This project is licensed under the [MIT License](LICENSE).
